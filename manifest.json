@@ -4,7 +4,7 @@
   "display": "standalone",
   "name": "Jogo_da_velha",
   "orientation": "any",
-  "scope": "/",
+  "scope": "https://cristina.amanda.grupo-01.sd.ufersa.dev.br/",
   "short_name": "JogoDaVelha",
   "start_url": "index.html",
   "theme_color": "#4f5963",
