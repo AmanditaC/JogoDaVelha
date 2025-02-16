@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "https://cristina.amanda.grupo-01.sd.ufersa.dev.br/",
   "short_name": "JogoDaVelha",
-  "start_url": "/",
+  "start_url": "https://cristina.amanda.grupo-01.sd.ufersa.dev.br/index.html",
   "theme_color": "#4f5963",
   "id": "br.dev.ufersa.sd.grupo-01.amanda.cristina",
   "icons": [
