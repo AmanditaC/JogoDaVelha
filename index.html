@@ -5,6 +5,11 @@
     <link rel="icon" type="image/svg+xml" href="/vite.svg" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="manifest" href="/manifest.json">
+    <script>
+      if(typeof navigator.serviceWorker !== "undefined") {
+        navigator.serviceWorker.register("serviceworker.js");
+      }
+    </script>
     <title>Jogo Da Velha</title>
   </head>
   <body>
